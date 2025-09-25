@@ -38,9 +38,9 @@ body {
 
 .categ-cont {
     background-color: #f4d04e;
+    align-self: flex-start;
     padding: 4px 12px;
     border-radius: 4px;
-    width: 82px;
 }
 
 .category {
